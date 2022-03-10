@@ -1,0 +1,5 @@
+!example-*
+example-*/index.txt*
+example-*/serial*
+example-*/output/*
+!example-*/output/.gitkeep
