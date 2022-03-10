@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/extra2000/openssl-templates/compare/v1.0.0...v1.1.0) (2022-03-10)
+
+
+### Features
+
+* **examples:** add Freeradius template ([852df10](https://github.com/extra2000/openssl-templates/commit/852df1056c0ad285cd7b2a847e95514f646437e0))
+
 ## 1.0.0 (2022-03-10)
 
 
