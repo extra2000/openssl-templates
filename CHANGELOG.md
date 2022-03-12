@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.1.1](https://github.com/extra2000/openssl-templates/compare/v1.1.0...v1.1.1) (2022-03-12)
+
+
+### Fixes
+
+* **freeradius:** add CA constraint required by Android ([4493716](https://github.com/extra2000/openssl-templates/commit/44937167b13c38fb1306e72e277ff2dd2c955eb2))
+
 ## [1.1.0](https://github.com/extra2000/openssl-templates/compare/v1.0.0...v1.1.0) (2022-03-10)
 
 
