@@ -1,5 +1,17 @@
 # Changelog
 
+### [1.1.2](https://github.com/extra2000/openssl-templates/compare/v1.1.1...v1.1.2) (2022-04-19)
+
+
+### Styles
+
+* **generics:** remove trailing spaces ([2e2e591](https://github.com/extra2000/openssl-templates/commit/2e2e591fd84c2abe55cc019d6b89c2fb9e80e84b))
+
+
+### Fixes
+
+* **generics:** fix CA constraint ([25de152](https://github.com/extra2000/openssl-templates/commit/25de152f8f2ce779b0b36d639910b808d28d7409))
+
 ### [1.1.1](https://github.com/extra2000/openssl-templates/compare/v1.1.0...v1.1.1) (2022-03-12)
 
 
